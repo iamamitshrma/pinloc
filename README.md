@@ -4,3 +4,5 @@ In this project, the user can register yourself and then login in pinloc app and
 The user can pin the location and add detials about that location and the pined location data is store in database.
 
 This Project is based on MERN stack development.
+
+This Project is only for enhancing my MERN Stack development Skills and vistor face an issue about login and register because of Database.
