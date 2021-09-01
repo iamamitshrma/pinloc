@@ -5,4 +5,4 @@ The user can pin the location and add detials about that location and the pined 
 
 This Project is based on MERN stack development.
 
-This Project is only for enhancing my MERN Stack development Skills and vistor face an issue about login and register because of Database.
+This Project is only for enhancing my MERN Stack development Skills and vistor may face difficulty to login and register bacause of database.
